@@ -271,10 +271,11 @@ body {
     font-size: 0.625rem;
   }
   
-   
-  .event {
-  font-size: 0px;
-  }
+   .event {
+      font-size: 0px;
+      background-color: #58bae4;
+      color: white;
+ }
 
  }
 
@@ -323,7 +324,9 @@ body {
   }
   
   .event {
-  font-size: 0px;
-  }
+      font-size: 0px;
+      background-color: #58bae4;
+      color: white;
+ }
 
  }
