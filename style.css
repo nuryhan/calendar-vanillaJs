@@ -254,3 +254,42 @@ body {
   }
 
  }
+
+
+
+@media (max-width: 500px) { 
+
+  #header {
+    font-size: 0.625rem;
+  }
+
+  #container {
+    width: 21.875rem;
+  }
+
+  .day {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  #weekdays div {
+    width: 3.125rem;
+    padding: 0.375rem;
+    font-size: 0.625rem;
+  }
+
+  .toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .toggle span {
+    font-size: 0.625rem;
+  }
+
+  #header button {
+    font-size: 0.625rem;
+  }
+
+ }
