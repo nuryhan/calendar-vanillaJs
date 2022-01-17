@@ -270,6 +270,11 @@ body {
   #header button {
     font-size: 0.625rem;
   }
+  
+   
+  .event {
+  font-size: 0px;
+  }
 
  }
 
@@ -315,6 +320,10 @@ body {
 
   #header button {
     font-size: 0.625rem;
+  }
+  
+  .event {
+  font-size: 0px;
   }
 
  }
