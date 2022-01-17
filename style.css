@@ -217,25 +217,26 @@ body {
 
 /* responsive design */
 
+
 @media (max-width: 900px) { 
 
   #header {
-    font-size: 14px;
+    font-size: 0.875rem;
   }
 
   #container {
-    width: 420px;
+    width: 26.25rem;
   }
 
   .day {
-    width: 50px;
-    height: 50px;
+    width: 3.125rem;
+    height: 3.125rem;
   }
 
   #weekdays div {
-    width: 60px;
-    padding: 10px;
-    font-size: 10px;
+    width: 3.75rem;
+    padding: 0.625rem;
+    font-size: 0.625rem;
   }
 
   .toggle {
@@ -245,11 +246,11 @@ body {
   }
 
   .toggle span {
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
   #header button {
-    font-size: 10px;
+    font-size: 0.625rem;
   }
 
  }
